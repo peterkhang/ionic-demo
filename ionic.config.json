@@ -1,0 +1,10 @@
+{
+  "name": "ionic-demo",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
